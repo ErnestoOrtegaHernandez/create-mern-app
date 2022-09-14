@@ -11,3 +11,6 @@ There are three commands to use when running/developing your future application:
   <ul>"npm run back" launches the backend server<br></ul>
   <ul>"npm run front" builds and watches the frontend files<br></ul>
   <ul>"npm run css" builds and watches css changes (tailwind)</ul>
+  
+![AddTodo](https://user-images.githubusercontent.com/80933967/190238074-e2caa217-e597-4900-bd99-07cb0053d520.PNG)
+![TodoList](https://user-images.githubusercontent.com/80933967/190238073-6ad5df76-2968-432e-a1a0-910528e8fe11.PNG)
