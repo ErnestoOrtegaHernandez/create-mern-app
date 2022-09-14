@@ -1,7 +1,7 @@
 # create-mern-app
 Creates a fullstack application with a todo app template
 This template uses MongoDB/Mongoose ODM for data persistence/querying, Express Framework on Node.js backend, and React frontend.
-I've also included tailwind config to utilize tailwind css styling.
+I've also included tailwind config to utilize tailwind css styling. Feel free to fork and clone to skip config on your next project!
 
 <h3>Running the application</h3>
 First <text>npm install</text> , this will install all dev dependencies.
